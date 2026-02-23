@@ -1,0 +1,5 @@
+ // npm CREATE VITE@LEATEST
+ //LP
+ //npm INSTALL  //ON THE VS CODE 
+ //LP
+ //npm RUN DEV //ON VS CODE
